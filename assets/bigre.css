@@ -1,0 +1,85 @@
+.people {
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.people-index {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    float: left;
+    width: 180px;
+}
+
+
+.people-picture {
+    float: left;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    text-align: center;
+    z-index: 0;
+}
+
+.people-picture::after {
+    bottom: -100px;
+    position: absolute;
+    content: '';
+}
+
+.people-picture img {
+    -webkit-filter: grayscale(50%) brightness(1.15);
+    -moz-filter: grayscale(50%) brightness(1.15);
+    filter: grayscale(50%) brightness(1.15);
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.people:hover .people-picture img {
+    -webkit-filter: grayscale(0%) brightness(1.15);
+    -moz-filter: grayscale(0%) brightness(1.15);
+    filter: grayscale(0%) brightness(1.15);
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+}
+
+
+
+.people-content {
+    margin-left: 125px;
+    margin-right: 5px;
+    padding-top: 0px;
+}
+
+.people-content p {
+    padding-top: 0px;
+    margin-top: 0px;
+    text-align: justify;
+}
+
+.people-content::before, .people-content::after {
+    content: "";
+    display: table;
+}
+
+.people-name {
+    font-weight: bold;
+    font-size: 80%;
+    display: block;
+    width: 150px;
+    text-align: center;
+
+}
+

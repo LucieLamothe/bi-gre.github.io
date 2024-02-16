@@ -5,7 +5,7 @@ subtitle: More about us…
 ---
 
 {% for post in site.members %}
-    {% include archive-people.html %}
+    {% include archive-people-index.html %}
 {% endfor %}
 
 
