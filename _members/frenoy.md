@@ -4,7 +4,7 @@ name: "Antoine Frenoy"
 collection: members
 position: "Permanent researcher"
 lab: TIMC
-team: MAGE
+team: MAGe
 ---
 
 
