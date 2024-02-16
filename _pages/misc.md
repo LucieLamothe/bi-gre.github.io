@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Misc.
+permalink: /misc
 ---
 
 [Bigre!](bi-gre.github.io) 
