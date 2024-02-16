@@ -3,7 +3,6 @@ title: "Victor Bañon Garcia"
 name: "Victor Bañon Garcia"
 collection: peoples
 permalink: /people/victor_banon_garcia
-image: Victor_bg.jpg
 github: "https://github.com/VictorBanon"
 position: "phd_student"
 lab: TIMC
