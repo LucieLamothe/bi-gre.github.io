@@ -57,6 +57,13 @@ enforce_ssl: bi-gre.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: 
 
+# Collections
+collections:
+  members:
+    output: true
+    permalink: /:collection/:path/
+
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
