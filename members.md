@@ -4,7 +4,7 @@ title: Members
 subtitle: More about us…
 ---
 
-{% for post in site.peoples %}
+{% for post in site.members %}
     {% include archive-people.html %}
 {% endfor %}
 
