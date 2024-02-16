@@ -1,7 +1,7 @@
 ---
 title: "Nelle Varoquaux"
 name: "Nelle Varoquaux"
-collection: peoples
+collection: members
 permalink: /people/nelle_varoquaux
 image: nelle.png
 position: "Permanent researcher"

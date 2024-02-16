@@ -1,7 +1,7 @@
 ---
 title: "Sophie Abby"
 name: "Sophie Abby"
-collection: peoples
+collection: members
 image: sophie.jpeg
 permalink: /people/sophie_abby
 position: "Permanent researcher"
