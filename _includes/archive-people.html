@@ -14,6 +14,14 @@
     <div class="people-content">
 	{{ post.content }}
 
+	<div class="people-name">
+	    {{ post.name }}
+	</div>
+	<div class="people-lab">
+	    {{ post.lab }} • {{ post.team }}
+	</div>
+
+
 	{% if post.website %}
 	<a href="{{ post.website }}" rel="permalink"><i class="fa fa-fw fa-map-marker fa-2x" aria-hidden="true"></i></a>
 	{% endif %}
