@@ -1,10 +1,9 @@
 ---
 title: "Sandy Frank Kwamou Ngaha"
 name: "Sandy Frank Kwamou Ngaha"
-collection: peoples
-permalink: /people/sandy_ngaha
+collection: members
 image: photo_frank.png
-github: "(https://github.com/sandyfrank)"
+github: "https://github.com/sandyfrank"
 position: "phd_student"
 lab: TIMC
 team: TrEE

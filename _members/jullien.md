@@ -1,9 +1,8 @@
 ---
 title: "Margaux Jullien"
 name: "Margaux Jullien"
-collection: peoples
+collection: members
 image: margaux.png
-permalink: /people/margaux_jullien
 position: "postdoc"
 github: "https://github.com/margauxjullien"
 googlescholar: "https://scholar.google.com/citations?user=NSLZJLoAAAAJ&hl=fr"

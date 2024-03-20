@@ -2,7 +2,6 @@
 title: "Nelle Varoquaux"
 name: "Nelle Varoquaux"
 collection: members
-permalink: /people/nelle_varoquaux
 image: nelle.png
 position: "Permanent researcher"
 website: "https://nellev.github.io/"

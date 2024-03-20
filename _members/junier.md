@@ -1,9 +1,8 @@
 ---
 title: "Ivan Junier"
 name: "Ivan Junier"
-collection: peoples
+collection: members
 image: ivan.jpg
-permalink: /people/ivan_junier
 position: "Permanent researcher"
 github: "https://github.com/ijunier"
 googlescholar: "https://scholar.google.com/citations?user=UiHvu5AAAAAJ&hl=en"

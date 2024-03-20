@@ -1,9 +1,8 @@
 ---
 title: "Zakaria Tougui"
 name: "Zakaria Tougui"
-collection: peoples
-permalink: /people/zakaria_tougui
-github: "(https://github.com/zktougui/)"
+collection: members
+github: "https://github.com/zktougui/"
 position: "phd_student"
 lab: TIMC
 team: MAGe & TrEE

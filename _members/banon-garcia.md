@@ -1,8 +1,7 @@
 ---
 title: "Victor Bañon Garcia"
 name: "Victor Bañon Garcia"
-collection: peoples
-permalink: /people/victor_banon_garcia
+collection: members
 github: "https://github.com/VictorBanon"
 position: "phd_student"
 lab: TIMC

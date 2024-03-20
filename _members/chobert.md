@@ -1,9 +1,8 @@
 ---
 title: "Sophie-Carole Chobert"
 name: "Sophie-Carole Chobert"
-collection: peoples
+collection: members
 image: koi_sophie_c.png
-permalink: /people/sophie_chobert
 github: "https://github.com/choberts"
 position: "phd_student"
 lab: TIMC

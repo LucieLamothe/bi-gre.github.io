@@ -1,9 +1,8 @@
 ---
 title: "Flora Gaudillière"
 name: "Flora Gaudillière"
-collection: peoples
+collection: members
 image: photo_Flora.JPG
-permalink: /people/flora_gaudilliere
 website: "https://fgaudilliere.github.io/"
 github: "https://github.com/fgaudilliere"
 position: "phd_student"

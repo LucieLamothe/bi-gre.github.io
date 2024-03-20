@@ -1,8 +1,7 @@
 ---
 title: "Gabin Laurent"
 name: "Gabin Laurent"
-collection: peoples
-permalink: /people/gabin_laurent
+collection: members
 position: "postdoc"
 image: gabin.jpeg
 googlescholar: "https://scholar.google.com/citations?user=h7IpnN0AAAAJ&hl=fr&oi=ao"

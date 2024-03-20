@@ -1,9 +1,8 @@
 ---
 title: "Morgane Roger-Margueritat"
 name: "Morgane Roger-Margueritat"
-collection: peoples
+collection: members
 image: photo_Morgane.jpg
-permalink: /people/morgane_roger-Margueritat
 position: "phd_student"
 lab: TIMC
 team: TrEE
