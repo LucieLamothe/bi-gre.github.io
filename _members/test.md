@@ -2,7 +2,7 @@
 title: "Magali Richard"
 name: "Magali Richard"
 collection: members
-image: richard.jpg
+image: mrichard.jpg
 position: "Permanent researcher"
 lab: TIMC
 team: MAGe
