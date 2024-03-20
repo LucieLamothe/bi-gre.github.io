@@ -85,3 +85,10 @@
     text-align: center;
 }
 
+.submenu {
+    text-align: center;
+}
+
+.submenu a:active {
+    font-weight: bold;
+}

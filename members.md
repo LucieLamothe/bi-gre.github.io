@@ -4,7 +4,7 @@ title: Members
 subtitle: More about us…
 ---
 
-<div>
+<div class="submenu">
  <a href="{{ site.baseurl }}/members">Short</a> |  <a href="{{ site.baseurl }}/members_detailed">Detailed</a>
 </div>
 
