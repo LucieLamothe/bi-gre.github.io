@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-subtitle: More about us…
+subtitle: Detailed information
 ---
 
 {% for post in site.members %}
