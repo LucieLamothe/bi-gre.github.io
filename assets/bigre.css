@@ -89,6 +89,10 @@
     text-align: center;
 }
 
-.submenu a:active {
+.submenu a {
+    color: "#404040" 
+}
+
+.submenu a.active {
     font-weight: bold;
 }

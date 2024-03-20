@@ -5,7 +5,7 @@ subtitle: Detailed information
 ---
 
 <div class="submenu">
- <a href="{{ site.baseurl }}/members">Short version</a> |  <a href="{{ site.baseurl }}/members_detailed">Detailed version</a>
+ <a href="{{ site.baseurl }}/members">Short version</a> |  <a class="active" href="{{ site.baseurl }}/members_detailed">Detailed version</a>
 </div>
 
 
