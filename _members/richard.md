@@ -3,7 +3,6 @@ title: "Magali Richard"
 name: "Magali Richard"
 collection: members
 image: richard.jpg
-permalink: /people/magali_richard
 position: "Permanent researcher"
 website: "https://magrichard.github.io/"
 github: "https://github.com/magrichard"

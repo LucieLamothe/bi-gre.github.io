@@ -3,7 +3,6 @@ title: "Sophie Abby"
 name: "Sophie Abby"
 collection: members
 image: sophie.jpeg
-permalink: /people/sophie_abby
 position: "Permanent researcher"
 github: "https://github.com/saphia"
 googlescholar: "https://scholar.google.fr/citations?user=pJ3h0iMAAAAJ&hl=en"
