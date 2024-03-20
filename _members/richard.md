@@ -7,7 +7,7 @@ position: "Permanent researcher"
 website: "https://magrichard.github.io/"
 github: "https://github.com/magrichard"
 googlescholar: "https://scholar.google.co.il/citations?hl=en&user=qy3usEoAAAAJ"
-orcid: "https://orcid.org/0000-0003-3165-3218""
+orcid: "https://orcid.org/0000-0003-3165-3218"
 twitter: "https://twitter.com/magg_richard"
 lab: TIMC
 team: MAGe
