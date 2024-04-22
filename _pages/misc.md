@@ -5,7 +5,28 @@ permalink: /misc
 ---
 
 
-# Miscellenaous conferences
+# Miscellaneous conferences
+
+
+## SFE2 meeting: biennial meeting of the French Society of Ecology and Evolution - International congress in Ecology & Evolution
+
+- 21-25 Oct 2014
+- Lyon
+- Abstract deadline: 15th of May 2024
+- Early bird registration: 15th of Apr to 24th of July 2024
+- Registrations: 30th of Sep 2024
+
+[https://sfe2-2024.fr/en/pages/sfe2-2024-home](https://sfe2-2024.fr/en/pages/sfe2-2024-home)
+
+
+## 19e congrès national de la Société Française de Microbiologie (SFM)
+
+- 7-9 oct 2024
+- Lille, France
+- Abstract submission deadline: 10th of June 2024
+- Early-bird registration: 28th of June 2024
+
+[https://www.alphavisa.com/sfm/2024/fr/](https://www.alphavisa.com/sfm/2024/fr/)
 
 ## legend2024: Machine Learning for Evolutionary Genomics Data
 
@@ -21,7 +42,7 @@ permalink: /misc
 
 - 3 June 2024
 - IMAG auditorium, IMAG building, Grenoble
-- Abstract and registration deadlin: before 26th of Apr
+- Abstract and registration deadline: before 26th of Apr
 - Free but mandatory registration
 
 [https://bactogre.sciencesconf.org/](https://bactogre.sciencesconf.org/)
@@ -57,9 +78,12 @@ Submission site: [https://easychair.org/cfp/jobim-2024](https://easychair.org/cf
 
 ## SMBE meeting, congress of the Society for Molecular Biology and Evolution
 
-- Around 23-27 Jul 2024, TBA
+- 7-11 Jul 2024
 - Puerto Vallarta, Mexico
-- Abstract deadline: TBA
+- Abstract deadline: closed
+- Early-bird registration: 10th of May 2024
+
+[https://smbe2024.org/](https://smbe2024.org/)
 
 ## Meeting of the International Society for Microbial Ecology (ISME19) "19th International Symposium on Microbial Ecology"
 
@@ -70,17 +94,6 @@ Submission site: [https://easychair.org/cfp/jobim-2024](https://easychair.org/cf
 - Early bird registration: 26th of Apr 2024
 
 [https://isme19.isme-microbes.org/](https://isme19.isme-microbes.org/)
-
-
-## SFE2 meeting: biennial meeting of the French Society of Ecology and Evolution - International congress in Ecology & Evolution
-
-- 21-25 Oct 2014
-- Lyon
-- Abstract deadline: 15th of Apr 2024
-- Early bird registration: 15th of Apr to 26th of July 2024
-- Registrations: 30th of Sep 2024
-
-[https://sfe2-2024.fr/en/pages/sfe2-2024-home](https://sfe2-2024.fr/en/pages/sfe2-2024-home)
 
 
 ## 18th Congress of the International Union of Microbiological Societies (IUMS)
