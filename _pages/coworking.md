@@ -12,7 +12,7 @@ permalink: /coworking/
 
 ## Next co-works:
 
-- 23 May 2024 (room 203, IMAG)
+- 23 May 2024 (room 206, IMAG - careful, badge-access to be arranged)
 - 13 June 2024
 - **Summer break**
 - 26 Sep 2024
