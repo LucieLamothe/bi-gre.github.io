@@ -27,8 +27,7 @@ and
         word-wrap: break-word;
         text-align: center;
     }
-    .planning tr:nth-child(1) { background: orange; }
-    .planning tr:nth-child(3) { background: orange; }
+    .planning tr:nth-child(2) { background: orange; }
     .planning tr:nth-child(5) { background: orange; }
     .planning tr:nth-child(7) { background: orange; }
     .planning tr:nth-child(9) { background: orange; }
@@ -36,32 +35,35 @@ and
     .planning tr:nth-child(13) { background: orange; }
     .planning tr:nth-child(15) { background: orange; }
     .planning tr:nth-child(17) { background: orange; }
+    .planning tr:nth-child(19) { background: orange; }
+
 </style>
 
 <div class="planning">
 
 
-| Date          | Event (BCM / BIGRE) | Where           | Speaker         | Title         |
-|---------------|---------------------|-----------------|-----------------|---------------|
-| Jun, 13, 2024 | BIGRE               | Taillefer R31   | Guillaume Achaz |               |
-| Sep 12, 2024  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-| Sep 26, 2024  | BIGRE               | IMAG auditorium | _coming soon_   | _coming soon_ |
-| Oct 10, 2024  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-| Nov 7, 2024   | BIGRE               | IMAG auditorium | _coming soon_   | _coming soon_ |
-| Nov 21, 2024  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-| Nov 28, 2024  | BIGRE               | TBD             | _coming soon_   | _coming soon_ |
-| Dec 19, 2024  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-| Jan 9, 2025   | BIGRE               | IMAG auditorium | _coming soon_   | _coming soon_ |
-| Jan 23, 2025  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-| Feb 6, 2024   | BIGRE               | IMAG auditorium | _coming soon_   | _coming soon_ |
-| Feb 20, 2025  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-| Mar 13, 2025  | BIGRE               | IMAG auditorium | _coming soon_   | _coming soon_ |
-| Mar 27, 2025  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-| Apr 10, 2025  | BIGRE               | TBD             | _coming soon_   | _coming soon_ |
-| May 15, 2025  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-| Jun 5, 2025   | BIGRE               | IMAG auditorium | _coming soon_   | _coming soon_ |
-| Jun 19, 2025  | BCM                 | Taillefer R31   | _coming soon_   | _coming soon_ |
-
+|      Date     | Event (BCM / BIGRE) |      Where      |        Speaker        | Laboratory                    |                                                                Title                                                               |
+|:-------------:|:-------------------:|:---------------:|:---------------------:|-------------------------------|:----------------------------------------------------------------------------------------------------------------------------------:|
+| May, 23, 2024 |         BCM         |  Taillefer R31  | Bahram Houchmandzadeh | LiPHY, Grenoble               |                                              "Selected topics in evolutionary biology"                                             |
+| Jun, 13, 2024 |        BIGRE        |  Taillefer R31  |    Guillaume Achaz    | Collège de France/MNHM, Paris | "Conservation Population genomics : leveraging polymorphisms and recombination to monitor the size variation of any given species" |
+| Jun, 18, 2024 |         BCM         |  Taillefer R31  |      Anton Robert     | Centre Cavaillès, Paris       |                                       "Organizing objects of physics for theoretical biology"                                      |
+|  Sep 12, 2024 |         BCM         |  Taillefer R31  |     Sophie Achard     | LJK, Grenoble                 |                                                             coming soon                                                            |
+|  Sep 26, 2024 |        BIGRE        | IMAG auditorium |      coming soon      |                               |                                                             coming soon                                                            |
+|  Oct 10, 2024 |         BCM         |  Taillefer R31  |     Brice Letcher     | LBMC/ENS, Lyon                |                  "Deciphering the function and evolution of programmed DNA elimination in Mesorhabditis nematodes"                 |
+|  Nov 7, 2024  |        BIGRE        | IMAG auditorium |     Fabien Duveau     | LBMC/ENS, Lyon                |                                                             coming soon                                                            |
+|  Nov 21, 2024 |         BCM         |  Taillefer R31  |     Laurent Guyon     | IRIG/CEA, Grenoble            |                                                             coming soon                                                            |
+|  Nov 28, 2024 |        BIGRE        |  Taillefer R31  |      coming soon      |                               |                                                             coming soon                                                            |
+|  Dec 19, 2024 |         BCM         |  Taillefer R31  |      coming soon      |                               |                                                             coming soon                                                            |
+|  Jan 9, 2025  |        BIGRE        | IMAG auditorium |      Fanny Pouyet     | LISN, Paris                   |                                                             coming soon                                                            |
+|  Jan 23, 2025 |         BCM         |  Taillefer R31  |      coming soon      |                               |                                                             coming soon                                                            |
+|  Feb 6, 2024  |        BIGRE        | IMAG auditorium |    Vittorio Perduca   | MAP5, Paris                   |                                                             coming soon                                                            |
+|  Feb 20, 2025 |         BCM         |  Taillefer R31  |      coming soon      |                               |                                                             coming soon                                                            |
+|  Mar 13, 2025 |        BIGRE        | IMAG auditorium |      coming soon      |                               |                                                             coming soon                                                            |
+|  Mar 27, 2025 |         BCM         |  Taillefer R31  |      coming soon      |                               |                                                             coming soon                                                            |
+|  Apr 17, 2025 |        BIGRE        | IMAG auditorium |      coming soon      |                               |                                                             coming soon                                                            |
+|  May 15, 2025 |         BCM         |  Taillefer R31  |      coming soon      |                               |                                                             coming soon                                                            |
+|  Jun 5, 2025  |        BIGRE        | IMAG auditorium |      coming soon      |                               |                                                             coming soon                                                            |
+|  Jun 19, 2025 |         BCM         |  Taillefer R31  |      coming soon      |                               |                                                             coming soon                                                            |
 </div>
 
 
